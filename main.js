@@ -57,7 +57,8 @@ const dots = [
     [49.94, 21.83, 2], // Italy 2002
     [51.28, 22.72, 3], // Cruise Croatia
     [52.84, 26.26, 3], // Cruise Greece
-    [84.45, 75.8, 4] // Australia
+    [84.45, 75.80, 4], // Tasmania
+    [83.33, 67.26, 4] // Australia
 ];
 
 dots.forEach(dot => {
